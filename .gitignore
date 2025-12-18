@@ -1,0 +1,15 @@
+# Compiled binaries
+server
+client
+*.o
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Backup files
+*~
+*.bak
